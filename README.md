@@ -6,7 +6,7 @@
     **1.** Create a _[customer performance report](https://github.com/Gouravrana1/Sales-Finance-Analytics-1/blob/main/customer%20net%20sales%20performance.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Gouravrana1/Sales-Finance-Analytics-1/blob/main/market%20performance%20vs%20target.pdf)_
-  
+    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
